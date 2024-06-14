@@ -16,6 +16,7 @@ pipenv shell
 Install Django inside virtual environment
 pipenv install Django
 
+Can check what are the instal softwares
 pip freeze
 
 Create a Django project
@@ -24,7 +25,7 @@ django-admin startproject myProject
 move back a directory
 cd myProject
 
-Create a folder
+Create another project
 python manage.py startapp myApp
 
 Run the backend server
